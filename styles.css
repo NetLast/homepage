@@ -236,6 +236,7 @@ body {
 .additional-info__education {
     margin-bottom: 20px;
 }
+
 .additional-info__education-university {
     color: var(--durability-text-color);
     text-align: left;
